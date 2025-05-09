@@ -1,0 +1,305 @@
+2025-02-20 20:02:46.035Z | Internal            | Game logic     | Started logging.
+2025-02-20 20:02:46.035Z | Internal            | Game logic     | Game version: 14.0.2.
+2025-02-20 20:02:46.035Z | Internal            | Game logic     | Build type: Release.
+2025-02-20 20:02:46.036Z | Internal            | Game logic     | Build timestamp: 2025-01-14 22:04:43Z.
+2025-02-20 20:02:46.036Z | Internal            | Game logic     | Headless: True.
+2025-02-20 20:02:50.910Z | Connection update   | Networking     |  preauthenticated.
+2025-02-20 20:02:51.101Z | Connection update   | Networking     |  preauthenticated.
+2025-02-20 20:02:51.217Z | Connection update   | Networking     |  preauthenticated.
+2025-02-20 20:02:51.240Z | Connection update   | Networking     |  preauthenticated.
+2025-02-20 20:02:51.316Z | Connection update   | Networking     |  preauthenticated.
+2025-02-20 20:02:51.389Z | Connection update   | Networking     |  preauthenticated.
+2025-02-20 20:02:51.403Z | Connection update   | Networking     |  preauthenticated.
+2025-02-20 20:02:51.413Z | Auth Rate Limit     | Networking     | Incoming connection rejected due to exceeding the rate limit.
+2025-02-20 20:02:51.496Z | Connection update   | Networking     |  preauthenticated.
+2025-02-20 20:02:51.526Z | Connection update   | Networking     |  preauthenticated.
+2025-02-20 20:02:51.641Z | Connection update   | Networking     |  preauthenticated.
+2025-02-20 20:02:51.820Z | Connection update   | Networking     |  preauthenticated.
+2025-02-20 20:02:52.036Z | Connection update   | Networking     |  preauthenticated.
+2025-02-20 20:02:52.590Z | Connection update   | Networking     |  preauthenticated.
+2025-02-20 20:02:53.152Z | Connection update   | Networking     |  preauthenticated.
+2025-02-20 20:02:53.238Z | Connection update   | Networking     |  preauthenticated.
+2025-02-20 20:02:59.151Z | Connection update   | Networking     |  authenticated. Player ID assigned: 9. Auth token serial number: .
+2025-02-20 20:02:59.151Z | Connection update   | Networking     | Nickname of  is now Mao Yem.
+2025-02-20 20:02:59.649Z | Connection update   | Networking     |  authenticated. Player ID assigned: 4. Auth token serial number: .
+2025-02-20 20:02:59.649Z | Connection update   | Networking     | Nickname of  is now Dora The Rat.
+2025-02-20 20:02:59.784Z | Connection update   | Networking     |  authenticated. Player ID assigned: 2. Auth token serial number: .
+2025-02-20 20:02:59.784Z | Connection update   | Networking     | Nickname of  is now Howler.
+2025-02-20 20:02:59.784Z | Connection update   | Permissions    | Howler () has been assigned to group ADMIN.
+2025-02-20 20:02:59.851Z | Connection update   | Networking     |  authenticated from endpoint . Player ID assigned: 3. Auth token serial number: .
+2025-02-20 20:02:59.851Z | Connection update   | Networking     | Nickname of  is now MAŁGORZATA ROZENEK.
+2025-02-20 20:02:59.851Z | Connection update   | Permissions    | MAŁGORZATA ROZENEK () has been assigned to group ADMIN.
+2025-02-20 20:03:00.480Z | Connection update   | Networking     |  authenticated from endpoint . Player ID assigned: 8. Auth token serial number: .
+2025-02-20 20:03:00.480Z | Connection update   | Networking     | Nickname of  is now ArashiNek00.
+2025-02-20 20:03:00.697Z | Connection update   | Networking     |  authenticated from endpoint . Player ID assigned: 10. Auth token serial number: R8tSeea/-0gYVn0Ry.
+2025-02-20 20:03:00.697Z | Connection update   | Networking     | Nickname of  is now KOMAR!!!.
+2025-02-20 20:03:00.926Z | Connection update   | Networking     |  authenticated from endpoint . Player ID assigned: 5. Auth token serial number: .
+2025-02-20 20:03:00.926Z | Connection update   | Networking     | Nickname of  is now Jan Glin.
+2025-02-20 20:03:01.234Z | Connection update   | Networking     |  authenticated from endpoint . Player ID assigned: 1. Auth token serial number: .
+2025-02-20 20:03:01.235Z | Connection update   | Networking     | Nickname of  is now Tommy.
+2025-02-20 20:03:01.258Z | Connection update   | Networking     |  authenticated from endpoint . Player ID assigned: 6. Auth token serial number: .
+2025-02-20 20:03:01.258Z | Connection update   | Networking     | Nickname of  is now adaś.
+2025-02-20 20:03:02.088Z | Connection update   | Networking     |  preauthenticated from endpoint .
+2025-02-20 20:03:02.401Z | Remote Admin        | Administrative | MAŁGORZATA ROZENEK () enabled lobby lock.
+2025-02-20 20:03:02.577Z | Connection update   | Networking     |  authenticated from endpoint . Player ID assigned: 18. Auth token serial number: .
+2025-02-20 20:03:02.577Z | Connection update   | Networking     | Nickname of  is now MONKI FLIP.
+2025-02-20 20:03:02.647Z | Connection update   | Networking     |  preauthenticated from endpoint .
+2025-02-20 20:03:02.864Z | Connection update   | Networking     |  authenticated from endpoint . Player ID assigned: 24. Auth token serial number: .
+2025-02-20 20:03:02.864Z | Connection update   | Networking     | Nickname of  is now Traky.
+2025-02-20 20:03:02.864Z | Connection update   | Permissions    | Traky () has been assigned to group ADMIN.
+2025-02-20 20:03:03.849Z | Connection update   | Networking     |  authenticated from endpoint . Player ID assigned: 23. Auth token serial number: .
+2025-02-20 20:03:03.849Z | Connection update   | Networking     | Nickname of  is now Misiu.
+2025-02-20 20:03:04.509Z | Connection update   | Networking     |  authenticated from endpoint . Player ID assigned: 21. Auth token serial number: .
+2025-02-20 20:03:04.509Z | Connection update   | Networking     | Nickname of  is now smokie.
+2025-02-20 20:03:04.861Z | Connection update   | Networking     |  authenticated from endpoint . Player ID assigned: 27. Auth token serial number: .
+2025-02-20 20:03:04.861Z | Connection update   | Networking     | Nickname of  is now Gasiaja.
+2025-02-20 20:03:10.561Z | Connection update   | Networking     |  authenticated from endpoint . Player ID assigned: 32. Auth token serial number: .
+2025-02-20 20:03:10.561Z | Connection update   | Networking     | Nickname of  is now Cavarano.
+2025-02-20 20:03:13.067Z | Connection update   | Networking     |  authenticated from endpoint . Player ID assigned: 14. Auth token serial number: .
+2025-02-20 20:03:13.068Z | Connection update   | Networking     | Nickname of  is now Vyaatu.
+2025-02-20 20:03:32.477Z | Remote Admin        | Administrative | MAŁGORZATA ROZENEK () disabled lobby lock.
+2025-02-20 20:03:44.509Z | Connection update   | Networking     |  preauthenticated from endpoint .
+2025-02-20 20:03:45.609Z | Connection update   | Networking     |  authenticated from endpoint . Player ID assigned: 33. Auth token serial number: .
+2025-02-20 20:03:45.609Z | Connection update   | Networking     | Nickname of  is now Bober.
+2025-02-20 20:03:56.359Z | Game Event          | Game logic     | Round has been started.
+2025-02-20 20:03:57.198Z | Connection update   | Networking     |  preauthenticated from endpoint .
+2025-02-20 20:03:58.784Z | Game Event          | Door           | Gasiaja () opened GR18.
+2025-02-20 20:03:58.884Z | Game Event          | Door           | Mao Yem () opened LCZ_WC.
+2025-02-20 20:04:00.353Z | Connection update   | Networking     |  authenticated from endpoint . Player ID assigned: 34. Auth token serial number: .
+2025-02-20 20:04:00.353Z | Connection update   | Networking     | Nickname of  is now Toperz.
+2025-02-20 20:04:06.714Z | Connection update   | Networking     |  authenticated from endpoint . Player ID assigned: 35. Auth token serial number: .
+2025-02-20 20:04:06.714Z | Connection update   | Networking     | Nickname of  is now Horace The Husky.
+2025-02-20 20:04:08.334Z | Game Event          | Door           | Gasiaja () opened GR18_INNER.
+2025-02-20 20:04:09.934Z | Game Event          | Door           | Mao Yem () opened 914.
+2025-02-20 20:04:14.607Z | Game Event          | Door           | Mao Yem () closed 914.
+2025-02-20 20:04:16.716Z | Game Event          | Door           | Tommy () opened LCZ_CAFE.
+2025-02-20 20:04:20.228Z | Game Event          | Door           | adaś () opened 173_BOTTOM.
+2025-02-20 20:04:27.999Z | Game Event          | Door           | Bober () opened CHECKPOINT_EZ_HCZ_A.
+2025-02-20 20:04:31.048Z | Game Event          | Door           | adaś () opened 173_ARMORY.
+2025-02-20 20:04:33.265Z | Game Event          | Door           | ArashiNek00 () closed GR18.
+2025-02-20 20:04:34.002Z | Game Event          | Door           | adaś () opened 173_CONNECTOR.
+2025-02-20 20:04:37.174Z | Game Event          | Door           | adaś () opened 173_GATE.
+2025-02-20 20:04:46.325Z | Game Event          | Door           | Gasiaja () opened GR18.
+2025-02-20 20:04:49.246Z | Game Event          | Door           | Traky () opened 914.
+2025-02-20 20:04:49.953Z | Game Event          | Door           | Howler () opened CHECKPOINT_EZ_HCZ_A.
+2025-02-20 20:05:04.854Z | Game Event          | Door           | Misiu () opened CHECKPOINT_LCZ_A.
+2025-02-20 20:05:21.881Z | Game Event          | Door           | MAŁGORZATA ROZENEK () closed 914.
+2025-02-20 20:05:26.774Z | Kill                | Class change   | Traky (), playing as Class-D Personnel, has been killed by Jan Glin () playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (Jan Glin).
+2025-02-20 20:05:31.267Z | Game Event          | Door           | Bober () opened CHECKPOINT_LCZ_B.
+2025-02-20 20:05:32.003Z | Kill                | Class change   | smokie (), playing as Class-D Personnel, has been killed by Jan Glin () playing as: SCP-049. Specific death reason: Died to a heart-attack forced by SCP-049 (Jan Glin).
+2025-02-20 20:05:36.413Z | Game Event          | Door           | Mao Yem () opened LCZ_ARMORY.
+2025-02-20 20:05:38.208Z | Game Event          | Door           | Mao Yem () closed LCZ_ARMORY.
+2025-02-20 20:05:55.667Z | Game Event          | Door           | Howler () opened 096.
+2025-02-20 20:06:03.506Z | Game Event          | Door           | Mao Yem () opened LCZ_ARMORY.
+2025-02-20 20:06:04.838Z | Game Event          | Door           | Cavarano () opened HID_LOWER.
+2025-02-20 20:06:06.519Z | Game Event          | Door           | Mao Yem () closed LCZ_ARMORY.
+2025-02-20 20:06:07.579Z | Kill                | Class change   | ArashiNek00 (), playing as Class-D Personnel, has been killed by Traky () playing as: SCP-049-2. Specific death reason: Terminated by an instance of SCP-049-2 (Traky).
+2025-02-20 20:06:15.811Z | Kill                | Class change   | MONKI FLIP (), playing as Class-D Personnel, has been killed by Jan Glin () playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (Jan Glin).
+2025-02-20 20:06:18.848Z | Kill                | Class change   | Bober (), playing as Facility Guard, has been killed by Traky () playing as: SCP-049-2. Specific death reason: Terminated by an instance of SCP-049-2 (Traky).
+2025-02-20 20:06:20.738Z | Game Event          | Door           | Mao Yem () opened CHECKPOINT_LCZ_A.
+2025-02-20 20:06:36.059Z | Game Event          | Door           | Tommy () closed GR18.
+2025-02-20 20:06:47.993Z | Kill                | Class change   | Tommy (), playing as Class-D Personnel, has been killed by MONKI FLIP () playing as: SCP-049-2. Specific death reason: Terminated by an instance of SCP-049-2 (MONKI FLIP).
+2025-02-20 20:06:49.750Z | Game Event          | Door           | KOMAR!!! () opened CHECKPOINT_LCZ_B.
+2025-02-20 20:06:52.183Z | Game Event          | Door           | Misiu () opened GR18.
+2025-02-20 20:06:52.520Z | Game Event          | Door           | Traky () opened CHECKPOINT_LCZ_A.
+2025-02-20 20:07:05.332Z | Kill                | Class change   | MONKI FLIP (), playing as SCP-049-2, has been killed by Cavarano () playing as: Facility Guard. Specific death reason: Shot by Cavarano with GunFSP9 to the 'Body' hitbox.
+2025-02-20 20:07:08.122Z | Game Event          | Door           | Mao Yem () opened HCZ_ARMORY.
+2025-02-20 20:07:10.967Z | Game Event          | Door           | Mao Yem () closed HCZ_ARMORY.
+2025-02-20 20:07:12.160Z | Game Event          | Door           | Vyaatu () opened CHECKPOINT_LCZ_A.
+2025-02-20 20:07:32.596Z | Game Event          | Door           | Mao Yem () opened HID_UPPER.
+2025-02-20 20:07:35.306Z | Game Event          | Door           | Mao Yem () opened HID_CHAMBER.
+2025-02-20 20:07:41.650Z | Game Event          | Door           | Vyaatu () opened CHECKPOINT_LCZ_A.
+2025-02-20 20:08:03.382Z | Game Event          | Door           | Howler () opened CHECKPOINT_EZ_HCZ_A.
+2025-02-20 20:08:09.108Z | Kill                | Class change   | adaś (), playing as Class-D Personnel, has been killed by Jan Glin () playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (Jan Glin).
+2025-02-20 20:08:24.031Z | Game Event          | Door           | Mao Yem () opened GATE_A.
+2025-02-20 20:08:27.238Z | Game Event          | Door           | Mao Yem () closed GATE_A.
+2025-02-20 20:08:28.273Z | Game Event          | Throwable      | Cavarano () threw GrenadeFlash.
+2025-02-20 20:08:31.030Z | Kill                | Class change   | KOMAR!!! (), playing as Facility Guard, has been killed by Jan Glin () playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (Jan Glin).
+2025-02-20 20:08:31.100Z | Game Event          | Throwable      | Dora The Rat () has been deafened by Cavarano () using a flashbang grenade.
+2025-02-20 20:08:31.100Z | Game Event          | Throwable      | Dora The Rat () has been blinded by Cavarano () using a flashbang grenade.
+2025-02-20 20:08:31.100Z | Game Event          | Throwable      | Jan Glin () has been deafened by Cavarano () using a flashbang grenade.
+2025-02-20 20:08:31.100Z | Game Event          | Throwable      | Jan Glin () has been blinded by Cavarano () using a flashbang grenade.
+2025-02-20 20:08:31.100Z | Game Event          | Throwable      | adaś () has been deafened by Cavarano () using a flashbang grenade.
+2025-02-20 20:08:31.100Z | Game Event          | Throwable      | adaś () has been flashed by Cavarano () using a flashbang grenade.
+2025-02-20 20:08:31.100Z | Game Event          | Throwable      | adaś () has been blinded by Cavarano () using a flashbang grenade.
+2025-02-20 20:08:31.837Z | Game Event          | Door           | Cavarano () opened CHECKPOINT_LCZ_A.
+2025-02-20 20:08:33.838Z | Game Event          | Throwable      | Dora The Rat () has been deafened by KOMAR!!! () using a flashbang grenade.
+2025-02-20 20:08:33.838Z | Game Event          | Throwable      | Dora The Rat () has been flashed by KOMAR!!! () using a flashbang grenade.
+2025-02-20 20:08:33.838Z | Game Event          | Throwable      | Dora The Rat () has been blinded by KOMAR!!! () using a flashbang grenade.
+2025-02-20 20:08:33.838Z | Game Event          | Throwable      | Jan Glin () has been deafened by KOMAR!!! () using a flashbang grenade.
+2025-02-20 20:08:33.838Z | Game Event          | Throwable      | Jan Glin () has been flashed by KOMAR!!! () using a flashbang grenade.
+2025-02-20 20:08:33.838Z | Game Event          | Throwable      | Jan Glin () has been blinded by KOMAR!!! () using a flashbang grenade.
+2025-02-20 20:08:33.838Z | Game Event          | Throwable      | adaś () has been deafened by KOMAR!!! () using a flashbang grenade.
+2025-02-20 20:08:33.838Z | Game Event          | Throwable      | adaś () has been blinded by KOMAR!!! () using a flashbang grenade.
+2025-02-20 20:08:49.814Z | Kill                | Class change   | Dora The Rat (), playing as Facility Guard, has been killed by Jan Glin () playing as: SCP-049. Specific death reason: Died to a heart-attack forced by SCP-049 (Jan Glin).
+2025-02-20 20:09:06.482Z | Game Event          | Door           | Howler () opened GATE_A.
+2025-02-20 20:09:09.852Z | Game Event          | Door           | Mao Yem () opened SURFACE_NUKE.
+2025-02-20 20:09:11.480Z | Game Event          | Class change   | Player Toperz () respawned as NtfCaptain.
+2025-02-20 20:09:11.493Z | Game Event          | Class change   | Player Horace The Husky () respawned as NtfSergeant.
+2025-02-20 20:09:11.505Z | Game Event          | Class change   | Player smokie () respawned as NtfSergeant.
+2025-02-20 20:09:11.517Z | Game Event          | Class change   | Player Bober () respawned as NtfSergeant.
+2025-02-20 20:09:11.527Z | Game Event          | Class change   | Player ArashiNek00 () respawned as NtfPrivate.
+2025-02-20 20:09:11.537Z | Game Event          | Class change   | Player Tommy () respawned as NtfPrivate.
+2025-02-20 20:09:11.545Z | Game Event          | Class change   | Player MONKI FLIP () respawned as NtfPrivate.
+2025-02-20 20:09:11.545Z | Game Event          | Class change   | WaveSpawner has successfully spawned 7 players as FoundationForces!
+2025-02-20 20:09:16.470Z | Game Event          | Door           | Cavarano () opened CHECKPOINT_EZ_HCZ_A.
+2025-02-20 20:09:16.749Z | Game Event          | Door           | Mao Yem () opened SURFACE_GATE.
+2025-02-20 20:09:17.428Z | Game Event          | Door           | MAŁGORZATA ROZENEK () opened 914.
+2025-02-20 20:09:21.003Z | Game Event          | Door           | MAŁGORZATA ROZENEK () closed 914.
+2025-02-20 20:09:30.976Z | Game Event          | Door           | Traky () closed HID_UPPER.
+2025-02-20 20:09:35.404Z | Game Event          | Throwable      | Bober () threw GrenadeHE.
+2025-02-20 20:09:51.983Z | Game Event          | Door           | Horace The Husky () opened GATE_B.
+2025-02-20 20:09:55.003Z | Game Event          | Door           | Toperz () closed GATE_B.
+2025-02-20 20:10:00.110Z | Game Event          | Door           | Mao Yem () opened ESCAPE_PRIMARY.
+2025-02-20 20:10:02.712Z | Game Event          | Door           | Mao Yem () opened ESCAPE_SECONDARY.
+2025-02-20 20:10:06.426Z | Game Event          | Door           | Jan Glin () opened CHECKPOINT_LCZ_B.
+2025-02-20 20:10:07.016Z | Game Event          | Door           | MAŁGORZATA ROZENEK () opened 914.
+2025-02-20 20:10:09.682Z | Game Event          | Door           | Traky () opened HID_UPPER.
+2025-02-20 20:10:10.778Z | Game Event          | Door           | MAŁGORZATA ROZENEK () closed 914.
+2025-02-20 20:10:16.029Z | Game Event          | Door           | MAŁGORZATA ROZENEK () opened 914.
+2025-02-20 20:10:19.039Z | Game Event          | Door           | MAŁGORZATA ROZENEK () closed 914.
+2025-02-20 20:10:21.079Z | Game Event          | Door           | adaś () opened CHECKPOINT_LCZ_B.
+2025-02-20 20:10:21.925Z | Game Event          | Door           | Toperz () closed GATE_A.
+2025-02-20 20:10:29.346Z | Game Event          | Door           | Horace The Husky () opened CHECKPOINT_EZ_HCZ_A.
+2025-02-20 20:10:42.374Z | Game Event          | Door           | Horace The Husky () opened CHECKPOINT_EZ_HCZ_A.
+2025-02-20 20:10:43.765Z | Game Event          | Door           | MAŁGORZATA ROZENEK () opened 914.
+2025-02-20 20:10:51.086Z | Game Event          | Door           | Vyaatu () opened CHECKPOINT_LCZ_B.
+2025-02-20 20:10:51.811Z | Game Event          | Door           | Cavarano () opened CHECKPOINT_EZ_HCZ_A.
+2025-02-20 20:10:56.633Z | Game Event          | Door           | Bober () opened GATE_B.
+2025-02-20 20:10:57.851Z | Game Event          | Throwable      | Toperz () threw GrenadeHE.
+2025-02-20 20:11:00.100Z | Game Event          | Door           | Bober () closed GATE_B.
+2025-02-20 20:11:01.351Z | Game Event          | Door           | Toperz () destroyed HID_UPPER door using Grenade.
+2025-02-20 20:11:01.351Z | Game Event          | Door           | Toperz () destroyed HID_CHAMBER door using Grenade.
+2025-02-20 20:11:01.351Z | Game Event          | Door           | Toperz () destroyed HID_LOWER door using Grenade.
+2025-02-20 20:11:02.396Z | Game Event          | Throwable      | Horace The Husky () threw GrenadeHE.
+2025-02-20 20:11:03.622Z | Game Event          | Door           | Toperz () opened CHECKPOINT_EZ_HCZ_A.
+2025-02-20 20:11:04.329Z | Kill                | Class change   | KOMAR!!! (), playing as SCP-049-2, has been killed by Cavarano () playing as: Facility Guard. Specific death reason: Shot by Cavarano with GunCrossvec to the 'Body' hitbox.
+2025-02-20 20:11:06.089Z | Kill                | Class change   | ArashiNek00 (), playing as Nine-Tailed Fox Private, has been killed by Jan Glin () playing as: SCP-049. Specific death reason: Died to a heart-attack forced by SCP-049 (Jan Glin).
+2025-02-20 20:11:06.380Z | Game Event          | Throwable      | smokie () threw GrenadeHE.
+2025-02-20 20:11:11.267Z | Kill                | Class change   | MONKI FLIP (), playing as Nine-Tailed Fox Private, has been killed by Traky () playing as: SCP-049-2. Specific death reason: Terminated by an instance of SCP-049-2 (Traky).
+2025-02-20 20:11:12.973Z | Game Event          | Door           | Toperz () opened CHECKPOINT_EZ_HCZ_A.
+2025-02-20 20:11:13.336Z | Game Event          | Door           | adaś () opened CHECKPOINT_EZ_HCZ_A.
+2025-02-20 20:11:15.411Z | Game Event          | Door           | Mao Yem () opened GATE_B.
+2025-02-20 20:11:21.257Z | Kill                | Class change   | Traky (), playing as SCP-049-2, has been killed by Toperz () playing as: Nine-Tailed Fox Captain. Specific death reason: Shot by Toperz with GunFRMG0 to the 'Body' hitbox.
+2025-02-20 20:11:23.663Z | Game Event          | Door           | smokie () opened CHECKPOINT_EZ_HCZ_A.
+2025-02-20 20:11:26.365Z | Kill                | Class change   | adaś (), playing as SCP-049-2, has been killed by Mao Yem () playing as: Nine-Tailed Fox Specialist. Specific death reason: Shot by Mao Yem with GunCrossvec to the 'Body' hitbox.
+2025-02-20 20:11:32.974Z | Game Event          | Door           | MONKI FLIP () opened CHECKPOINT_EZ_HCZ_A.
+2025-02-20 20:11:33.289Z | Kill                | Class change   | ArashiNek00 (), playing as SCP-049-2, has been killed by Cavarano () playing as: Facility Guard. Specific death reason: Shot by Cavarano with GunCrossvec to the 'Body' hitbox.
+2025-02-20 20:11:33.836Z | Game Event          | Door           | MAŁGORZATA ROZENEK () opened LCZ_ARMORY.
+2025-02-20 20:11:35.469Z | Game Event          | Door           | MAŁGORZATA ROZENEK () closed LCZ_ARMORY.
+2025-02-20 20:11:36.229Z | Kill                | Class change   | Cavarano (), playing as Facility Guard, has been killed by Dora The Rat () playing as: SCP-049-2. Specific death reason: Terminated by an instance of SCP-049-2 (Dora The Rat).
+2025-02-20 20:11:36.989Z | Kill                | Class change   | MONKI FLIP (), playing as SCP-049-2, has been killed by Toperz () playing as: Nine-Tailed Fox Captain. Specific death reason: Shot by Toperz with GunFRMG0 to the 'Body' hitbox.
+2025-02-20 20:11:37.034Z | Game Event          | Door           | Vyaatu () opened CHECKPOINT_LCZ_B.
+2025-02-20 20:11:43.644Z | Kill                | Class change   | Tommy (), playing as Nine-Tailed Fox Private, has been killed by Traky () playing as: SCP-049-2. Specific death reason: Terminated by an instance of SCP-049-2 (Traky).
+2025-02-20 20:11:53.340Z | Game Event          | Door           | Cavarano () opened CHECKPOINT_EZ_HCZ_A.
+2025-02-20 20:11:57.107Z | Kill                | Class change   | Cavarano (), playing as SCP-049-2, has been killed by Toperz () playing as: Nine-Tailed Fox Captain. Specific death reason: Shot by Toperz with GunFRMG0 to the 'Body' hitbox.
+2025-02-20 20:11:59.484Z | Game Event          | Door           | MAŁGORZATA ROZENEK () opened LCZ_ARMORY.
+2025-02-20 20:12:06.094Z | Game Event          | Door           | Gasiaja () opened CHECKPOINT_LCZ_B.
+2025-02-20 20:12:06.521Z | Game Event          | Door           | Jan Glin () opened CHECKPOINT_EZ_HCZ_A.
+2025-02-20 20:12:13.218Z | Game Event          | Door           | MAŁGORZATA ROZENEK () opened CHECKPOINT_LCZ_A.
+2025-02-20 20:12:16.824Z | Kill                | Class change   | Traky (), playing as SCP-049-2, has been killed by Toperz () playing as: Nine-Tailed Fox Captain. Specific death reason: Shot by Toperz with GunFRMG0 to the 'Body' hitbox.
+2025-02-20 20:12:23.521Z | Game Event          | Throwable      | MAŁGORZATA ROZENEK () threw GrenadeHE.
+2025-02-20 20:12:23.742Z | Game Event          | Door           | Bober () opened CHECKPOINT_EZ_HCZ_A.
+2025-02-20 20:12:24.105Z | Kill                | Class change   | MAŁGORZATA ROZENEK (), playing as Class-D Personnel, has been killed by Vyaatu () playing as: SCP-173. Specific death reason: Died to SCP (Vyaatu, Scp173).
+2025-02-20 20:12:25.442Z | Kill                | Class change   | Bober (), playing as Nine-Tailed Fox Sergeant, has been killed by ArashiNek00 () playing as: SCP-049-2. Specific death reason: Terminated by an instance of SCP-049-2 (ArashiNek00).
+2025-02-20 20:12:27.024Z | Game Event          | Door           | MAŁGORZATA ROZENEK () destroyed unnamed door using Grenade.
+2025-02-20 20:12:30.801Z | Kill                | Class change   | Mao Yem (), playing as Nine-Tailed Fox Specialist, has been killed by smokie () playing as: Nine-Tailed Fox Sergeant. Specific death reason: Shot by smokie with GunE11SR to the 'Headshot' hitbox.
+2025-02-20 20:12:33.735Z | Game Event          | Door           | KOMAR!!! () opened CHECKPOINT_EZ_HCZ_A.
+2025-02-20 20:12:44.749Z | Kill                | Class change   | smokie (), playing as Nine-Tailed Fox Sergeant, has been killed by Howler () playing as: Facility Guard. Specific death reason: Shot by Howler with GunFSP9 to the 'Headshot' hitbox.
+2025-02-20 20:12:46.248Z | Kill                | Class change   | Dora The Rat (), playing as SCP-049-2, has been killed by Toperz () playing as: Nine-Tailed Fox Captain. Specific death reason: Shot by Toperz with GunFRMG0 to the 'Body' hitbox.
+2025-02-20 20:12:46.532Z | Game Event          | Door           | ArashiNek00 () opened CHECKPOINT_EZ_HCZ_A.
+2025-02-20 20:12:47.613Z | Kill                | Class change   | KOMAR!!! (), playing as SCP-049-2, has been killed by Toperz () playing as: Nine-Tailed Fox Captain. Specific death reason: Shot by Toperz with GunFRMG0 to the 'Body' hitbox.
+2025-02-20 20:12:54.532Z | Kill                | Class change   | Howler (), playing as Facility Guard, has been killed by Cavarano () playing as: SCP-049-2. Specific death reason: Terminated by an instance of SCP-049-2 (Cavarano).
+2025-02-20 20:13:01.022Z | Kill                | Class change   | Toperz (), playing as Nine-Tailed Fox Captain, has been killed by Cavarano () playing as: SCP-049-2. Specific death reason: Terminated by an instance of SCP-049-2 (Cavarano).
+2025-02-20 20:13:10.558Z | Game Event          | Door           | Gasiaja () opened HCZ_ARMORY.
+2025-02-20 20:13:12.216Z | Game Event          | Door           | Gasiaja () closed HCZ_ARMORY.
+2025-02-20 20:13:50.269Z | Game Event          | Door           | Gasiaja () opened HCZ_ARMORY.
+2025-02-20 20:13:54.972Z | Game Event          | Door           | Toperz () opened CHECKPOINT_EZ_HCZ_A.
+2025-02-20 20:14:06.397Z | Game Event          | Door           | Jan Glin () opened CHECKPOINT_EZ_HCZ_A.
+2025-02-20 20:14:09.005Z | Game Event          | Door           | Horace The Husky () opened CHECKPOINT_EZ_HCZ_A.
+2025-02-20 20:14:20.435Z | Game Event          | Door           | Vyaatu () opened CHECKPOINT_LCZ_A.
+2025-02-20 20:14:21.039Z | Game Event          | Class change   | Player adaś () respawned as ChaosRepressor.
+2025-02-20 20:14:21.050Z | Game Event          | Class change   | Player MAŁGORZATA ROZENEK () respawned as ChaosRepressor.
+2025-02-20 20:14:21.061Z | Game Event          | Class change   | Player Tommy () respawned as ChaosRepressor.
+2025-02-20 20:14:21.077Z | Game Event          | Class change   | Player Traky () respawned as ChaosMarauder.
+2025-02-20 20:14:21.092Z | Game Event          | Class change   | Player Mao Yem () respawned as ChaosMarauder.
+2025-02-20 20:14:21.106Z | Game Event          | Class change   | Player smokie () respawned as ChaosMarauder.
+2025-02-20 20:14:21.128Z | Game Event          | Class change   | Player KOMAR!!! () respawned as ChaosMarauder.
+2025-02-20 20:14:21.149Z | Game Event          | Class change   | Player Howler () respawned as ChaosRifleman.
+2025-02-20 20:14:21.149Z | Game Event          | Class change   | WaveSpawner has successfully spawned 8 players as ChaosInsurgency!
+2025-02-20 20:14:22.406Z | Game Event          | Door           | Gasiaja () closed HCZ_ARMORY.
+2025-02-20 20:14:36.044Z | Game Event          | Door           | Horace The Husky () opened CHECKPOINT_EZ_HCZ_A.
+2025-02-20 20:14:54.242Z | Game Event          | Door           | Traky () opened GATE_A.
+2025-02-20 20:15:15.328Z | Game Event          | Warhead        | Horace The Husky () set the Alpha Warhead status to True.
+2025-02-20 20:15:18.800Z | Game Event          | Door           | Misiu () opened HCZ_ARMORY.
+2025-02-20 20:15:20.738Z | Kill                | Class change   | Gasiaja (), playing as Scientist, has been killed by ArashiNek00 () playing as: SCP-049-2. Specific death reason: Terminated by an instance of SCP-049-2 (ArashiNek00).
+2025-02-20 20:15:22.181Z | Game Event          | Door           | Howler () opened CHECKPOINT_EZ_HCZ_A.
+2025-02-20 20:15:23.434Z | Game Event          | Door           | Traky () opened CHECKPOINT_EZ_HCZ_A.
+2025-02-20 20:15:31.664Z | Game Event          | Door           | Mao Yem () opened CHECKPOINT_EZ_HCZ_A.
+2025-02-20 20:15:39.563Z | Game Event          | Throwable      | MAŁGORZATA ROZENEK () has been deafened by Dedicated Server (ID_Dedicated) using a flashbang grenade.
+2025-02-20 20:15:39.563Z | Game Event          | Throwable      | MAŁGORZATA ROZENEK () has been flashed by Dedicated Server (ID_Dedicated) using a flashbang grenade.
+2025-02-20 20:15:39.563Z | Game Event          | Throwable      | MAŁGORZATA ROZENEK () has been blinded by Dedicated Server (ID_Dedicated) using a flashbang grenade.
+2025-02-20 20:15:41.459Z | Game Event          | Game logic     | Decontamination started.
+2025-02-20 20:15:51.470Z | Kill                | Class change   | Vyaatu (), playing as SCP-173, has died. Specific death reason: Melted by a highly corrosive substance.
+2025-02-20 20:15:52.006Z | Game Event          | Door           | Dedicated Server (ID_Dedicated) destroyed LCZ_WC door using Grenade.
+2025-02-20 20:15:52.006Z | Game Event          | Door           | Dedicated Server (ID_Dedicated) destroyed unnamed door using Grenade.
+2025-02-20 20:16:23.121Z | Game Event          | Throwable      | MAŁGORZATA ROZENEK () has been deafened by Dedicated Server (ID_Dedicated) using a flashbang grenade.
+2025-02-20 20:16:23.121Z | Game Event          | Throwable      | MAŁGORZATA ROZENEK () has been flashed by Dedicated Server (ID_Dedicated) using a flashbang grenade.
+2025-02-20 20:16:23.121Z | Game Event          | Throwable      | MAŁGORZATA ROZENEK () has been blinded by Dedicated Server (ID_Dedicated) using a flashbang grenade.
+2025-02-20 20:16:29.039Z | Kill                | Class change   | Howler (), playing as Chaos Insurgency Rifleman, has been killed by Tommy () playing as: Chaos Insurgency Repressor. Specific death reason: Shot by Tommy with GunCrossvec to the 'Headshot' hitbox.
+2025-02-20 20:16:31.508Z | Kill                | Class change   | KOMAR!!! (), playing as Chaos Insurgency Marauder, has been killed by Toperz () playing as: SCP-049-2. Specific death reason: Terminated by an instance of SCP-049-2 (Toperz).
+2025-02-20 20:16:31.567Z | Game Event          | Throwable      | Horace The Husky () threw GrenadeFlash.
+2025-02-20 20:16:34.383Z | Game Event          | Throwable      | Mao Yem () has been deafened by Horace The Husky () using a flashbang grenade.
+2025-02-20 20:16:34.383Z | Game Event          | Throwable      | Mao Yem () has been flashed by Horace The Husky () using a flashbang grenade.
+2025-02-20 20:16:34.383Z | Game Event          | Throwable      | ArashiNek00 () has been blinded by Horace The Husky () using a flashbang grenade.
+2025-02-20 20:16:34.383Z | Game Event          | Throwable      | Gasiaja () has been deafened by Horace The Husky () using a flashbang grenade.
+2025-02-20 20:16:34.383Z | Game Event          | Throwable      | Gasiaja () has been flashed by Horace The Husky () using a flashbang grenade.
+2025-02-20 20:16:34.383Z | Game Event          | Throwable      | Gasiaja () has been blinded by Horace The Husky () using a flashbang grenade.
+2025-02-20 20:16:34.383Z | Game Event          | Throwable      | Toperz () has been blinded by Horace The Husky () using a flashbang grenade.
+2025-02-20 20:16:35.691Z | Kill                | Class change   | ArashiNek00 (), playing as SCP-049-2, has been killed by Horace The Husky () playing as: Nine-Tailed Fox Sergeant. Specific death reason: Shot by Horace The Husky with GunE11SR to the 'Body' hitbox.
+2025-02-20 20:16:38.706Z | Kill                | Class change   | Tommy (), playing as Chaos Insurgency Repressor, has been killed by adaś () playing as: Chaos Insurgency Repressor. Specific death reason: Shot by adaś with GunLogicer to the 'Body' hitbox.
+2025-02-20 20:16:39.818Z | Kill                | Class change   | Cavarano (), playing as SCP-049-2, has been killed by adaś () playing as: Chaos Insurgency Repressor. Specific death reason: Shot by adaś with GunLogicer to the 'Body' hitbox.
+2025-02-20 20:16:41.648Z | Kill                | Class change   | adaś (), playing as Chaos Insurgency Repressor, has been killed by Toperz () playing as: SCP-049-2. Specific death reason: Terminated by an instance of SCP-049-2 (Toperz).
+2025-02-20 20:16:44.592Z | Connection update   | Networking     | Vyaatu () disconnected from IP address . Last class: Destroyed.
+2025-02-20 20:16:44.608Z | Kill                | Class change   | Gasiaja (), playing as SCP-049-2, has been killed by smokie () playing as: Chaos Insurgency Marauder. Specific death reason: Shot by smokie with GunShotgun to the 'Body' hitbox.
+2025-02-20 20:16:45.302Z | Kill                | Class change   | Traky (), playing as Chaos Insurgency Marauder, has been killed by Jan Glin () playing as: SCP-049. Specific death reason: Died to a heart-attack forced by SCP-049 (Jan Glin).
+2025-02-20 20:16:47.340Z | Kill                | Class change   | Horace The Husky (), playing as Nine-Tailed Fox Sergeant, has died. Specific death reason: Crushed.
+2025-02-20 20:17:27.158Z | Kill                | Class change   | smokie (), playing as Chaos Insurgency Marauder, has been killed by Dora The Rat () playing as: SCP-049-2. Specific death reason: Terminated by an instance of SCP-049-2 (Dora The Rat).
+2025-02-20 20:17:32.372Z | Kill                | Class change   | Bober (), playing as SCP-049-2, has been killed by Mao Yem () playing as: Chaos Insurgency Marauder. Specific death reason: Shot by Mao Yem with GunFRMG0 to the 'Body' hitbox.
+2025-02-20 20:17:54.658Z | Game Event          | Door           | Mao Yem () opened CHECKPOINT_EZ_HCZ_A.
+2025-02-20 20:18:13.468Z | Game Event          | Door           | MAŁGORZATA ROZENEK () opened CHECKPOINT_EZ_HCZ_A.
+2025-02-20 20:18:20.578Z | Game Event          | Door           | Mao Yem () closed GATE_A.
+2025-02-20 20:18:29.332Z | Game Event          | Warhead        | Countdown started.
+2025-02-20 20:18:29.840Z | Game Event          | Door           | smokie () opened CHECKPOINT_EZ_HCZ_A.
+2025-02-20 20:18:39.239Z | Game Event          | Door           | Traky () opened CHECKPOINT_EZ_HCZ_A.
+2025-02-20 20:18:43.298Z | Kill                | Class change   | Dora The Rat (), playing as SCP-049-2, has been killed by MAŁGORZATA ROZENEK () playing as: Chaos Insurgency Repressor. Specific death reason: Shot by MAŁGORZATA ROZENEK with GunLogicer to the 'Body' hitbox.
+2025-02-20 20:19:22.304Z | Kill                | Class change   | Toperz (), playing as SCP-049-2, has been killed by Mao Yem () playing as: Chaos Insurgency Marauder. Specific death reason: Jailbirded by Mao Yem.
+2025-02-20 20:19:32.216Z | Game Event          | Door           | Misiu () closed SURFACE_NUKE.
+2025-02-20 20:19:38.571Z | Kill                | Class change   | Mao Yem (), playing as Chaos Insurgency Marauder, has been killed by smokie () playing as: SCP-049-2. Specific death reason: Terminated by an instance of SCP-049-2 (smokie).
+2025-02-20 20:19:58.077Z | Kill                | Class change   | MONKI FLIP (), playing as SCP-049-2, has been killed by MAŁGORZATA ROZENEK () playing as: Chaos Insurgency Repressor. Specific death reason: Shot by MAŁGORZATA ROZENEK with GunCrossvec to the 'Body' hitbox.
+2025-02-20 20:20:05.967Z | Kill                | Class change   | Traky (), playing as SCP-049-2, has been killed by MAŁGORZATA ROZENEK () playing as: Chaos Insurgency Repressor. Specific death reason: Shot by MAŁGORZATA ROZENEK with GunCrossvec to the 'Body' hitbox.
+2025-02-20 20:20:06.710Z | Kill                | Class change   | smokie (), playing as SCP-049-2, has been killed by MAŁGORZATA ROZENEK () playing as: Chaos Insurgency Repressor. Specific death reason: Shot by MAŁGORZATA ROZENEK with GunCrossvec to the 'Body' hitbox.
+2025-02-20 20:20:10.346Z | Game Event          | Warhead        | Warhead detonated.
+2025-02-20 20:20:10.346Z | Remote Admin        | Administrative | LCZ decontamination has been disabled by detonation of the Alpha Warhead.
+2025-02-20 20:20:10.362Z | Kill                | Class change   | Gasiaja (), playing as SCP-049-2, has died. Specific death reason: Died to alpha warhead.
+2025-02-20 20:20:10.365Z | Kill                | Class change   | Misiu (), playing as SCP-079, has died. Specific death reason: Died to alpha warhead.
+2025-02-20 20:20:13.888Z | Kill                | Class change   | MAŁGORZATA ROZENEK (), playing as Chaos Insurgency Repressor, has died. Specific death reason: Fall damage.
+2025-02-20 20:20:15.043Z | Game Event          | Game logic     | Round finished! Anomalies: 2 | Chaos: 0 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 0.
+2025-02-20 20:20:26.831Z | Connection update   | Networking     | Toperz () disconnected. Last class: Destroyed.
+2025-02-20 20:20:26.832Z | Connection update   | Networking     | Horace The Husky () disconnected. Last class: Destroyed.
+2025-02-20 20:20:26.833Z | Connection update   | Networking     | Mao Yem () disconnected. Last class: Destroyed.
+2025-02-20 20:20:26.834Z | Connection update   | Networking     | Traky () disconnected. Last class: Destroyed.
+2025-02-20 20:20:26.849Z | Connection update   | Networking     | MONKI FLIP () disconnected. Last class: Destroyed.
+2025-02-20 20:20:26.849Z | Connection update   | Networking     | Jan Glin () disconnected. Last class: Destroyed.
+2025-02-20 20:20:26.850Z | Connection update   | Networking     | Howler () disconnected. Last class: Destroyed.
+2025-02-20 20:20:26.851Z | Connection update   | Networking     | MAŁGORZATA ROZENEK () disconnected. Last class: Destroyed.
+2025-02-20 20:20:26.852Z | Connection update   | Networking     | KOMAR!!! () disconnected. Last class: Destroyed.
+2025-02-20 20:20:26.852Z | Connection update   | Networking     | Cavarano () disconnected. Last class: Destroyed.
+2025-02-20 20:20:26.853Z | Connection update   | Networking     | ArashiNek00 () disconnected. Last class: Destroyed.
+2025-02-20 20:20:26.853Z | Connection update   | Networking     | smokie () disconnected. Last class: Destroyed.
+2025-02-20 20:20:26.865Z | Connection update   | Networking     | Gasiaja () disconnected. Last class: Destroyed.
+2025-02-20 20:20:26.866Z | Connection update   | Networking     | Misiu () disconnected. Last class: Destroyed.
+2025-02-20 20:20:26.867Z | Connection update   | Networking     | adaś () disconnected. Last class: Destroyed.
+2025-02-20 20:20:26.886Z | Connection update   | Networking     | Bober () disconnected. Last class: Destroyed.
+2025-02-20 20:20:26.939Z | Connection update   | Networking     | Tommy () disconnected. Last class: Destroyed.
+2025-02-20 20:20:27.040Z | Connection update   | Networking     | Dora The Rat () disconnected. Last class: Destroyed.
